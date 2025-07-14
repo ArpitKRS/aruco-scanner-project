@@ -1,6 +1,6 @@
-# 📱 ArUco Scanner - React Native Simulation
+# 📱 ArUco Scanner - React Native Project
 
-This project is a **React Native-based simulation** of an **ArUco Marker Scanner** app. It demonstrates how an ArUco detection interface would work on a mobile device, mimicking the behavior of marker detection and visualization.
+This project is a **React Native-based project** of an **ArUco Marker Scanner** app. It demonstrates how an ArUco detection interface would work on a mobile device, protraying the behavior of marker detection and visualization.
 
 ---
 
